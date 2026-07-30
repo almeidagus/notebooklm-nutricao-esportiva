@@ -127,8 +127,3 @@ Este projeto foi desenvolvido para fins educacionais como parte do desafio da DI
 ### Mapa Mental
 
 ![Mapa Mental](imagens/mapa-mental.png)
-![Fontes](imagens/fontes.png)
-
-### Mapa mental
-
-![Mapa Mental](imagens/mapa-mental.png)
