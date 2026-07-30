@@ -26,7 +26,7 @@ Este projeto tem como principais objetivos:
 - Consolidar os conhecimentos adquiridos por meio de resumos, glossário e materiais de revisão.
 - Criar um projeto bem documentado para compor meu portfólio no GitHub.
 
--
+
 - ## 💡 Principais Aprendizados
 
 Durante o desenvolvimento deste projeto, percebi que a qualidade das respostas do NotebookLM depende diretamente da qualidade das fontes utilizadas e da forma como os prompts são elaborados.
