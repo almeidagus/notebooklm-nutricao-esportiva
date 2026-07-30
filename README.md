@@ -63,28 +63,28 @@ notebooklm-nutricao-esportiva
 ├── LICENSE
 ├── .gitignore
 │
-├── 📁 imagens
+├──  imagens/
 │   ├── home-notebooklm.png
 │   ├── fontes.png
 │   ├── mapa-mental.png
 │
-├── 📁 prompts
+├──  prompts/
 │   ├── 01-resumo-das-fontes.md
 │   ├── 02-suplementacao.md
 │   ├── 03-pre-durante-pos-treino.md
 │   └── 04-recuperacao-muscular.md
 │
-├── 📁 respostas
+├──  respostas/
 │   ├── 01-resposta.md
 │   ├── 02-resposta.md
 │   ├── 03-resposta.md
 │   └── 04-resposta.md
 │
-├── 📁 aprendizados
+├──  aprendizados/
 │   ├── 01-o-que-aprendi.md
 │   ├── 02-o-que-aprendi.md
 │   ├── 03-o-que-aprendi.md
 │   └── 04-o-que-aprendi.md
 │
-└── 📁 referencias
+└──  referencias/
     └── fontes-utilizadas.md
