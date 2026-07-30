@@ -86,7 +86,7 @@ notebooklm-nutricao-esportiva/
 │   ├── 02-o-que-aprendi.md
 │   ├── 03-o-que-aprendi.md
 │   └── 04-o-que-aprendi.md
-└── referencias/
+└── fontes/
     └── fontes-utilizadas.md
 ```
 
@@ -104,8 +104,9 @@ notebooklm-nutricao-esportiva/
 
 1. Acesse o NotebookLM.
 2. Importe as fontes científicas disponíveis na pasta `fontes`.
-3. Utilize os prompts presentes na pasta `prompts`.
-4. Consulte as respostas geradas e compare com os aprendizados registrados.
+3. Utilize os prompts da pasta `prompts`.
+4. Consulte as respostas geradas.
+5. Compare com os aprendizados registrados.
 
 
 ## 📄 Licença
@@ -117,10 +118,15 @@ Este projeto foi desenvolvido para fins educacionais como parte do desafio da DI
 
 ### Página inicial
 
-![Home](imagens/home-notebooklm.png)
+![Página inicial](imagens/home-notebooklm.png)
 
 ### Fontes utilizadas
 
+![Fontes](imagens/fontes.png)
+
+### Mapa Mental
+
+![Mapa Mental](imagens/mapa-mental.png)
 ![Fontes](imagens/fontes.png)
 
 ### Mapa mental
