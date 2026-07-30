@@ -59,34 +59,40 @@ Essas fontes foram escolhidas por apresentarem alto nível de evidência cientí
 
 
 
-## notebooklm-nutricao-esportiva
-│
+
+### notebooklm-nutricao-esportiva
+
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-│
+
+
 ├──  imagens/
-│   ├── home-notebooklm.png
-│   ├── fontes.png
-│   ├── mapa-mental.png
-│
+├── home-notebooklm.png
+├── fontes.png
+├── mapa-mental.png
+
+
 ├──  prompts/
-│   ├── 01-resumo-das-fontes.md
-│   ├── 02-suplementacao.md
-│   ├── 03-pre-durante-pos-treino.md
-│   └── 04-recuperacao-muscular.md
-│
+├── 01-resumo-das-fontes.md
+├── 02-suplementacao.md
+├── 03-pre-durante-pos-treino.md
+|└── 04-recuperacao-muscular.md
+
+
 ├──  respostas/
-│   ├── 01-resposta.md
-│   ├── 02-resposta.md
-│   ├── 03-resposta.md
-│   └── 04-resposta.md
-│
+├── 01-resposta.md
+├── 02-resposta.md
+├── 03-resposta.md
+|── 04-resposta.md
+
+
 ├──  aprendizados/
-│   ├── 01-o-que-aprendi.md
-│   ├── 02-o-que-aprendi.md
-│   ├── 03-o-que-aprendi.md
-│   └── 04-o-que-aprendi.md
-│
+├── 01-o-que-aprendi.md
+├── 02-o-que-aprendi.md
+├── 03-o-que-aprendi.md
+|── 04-o-que-aprendi.md
+
+
 └──  referencias/
     └── fontes-utilizadas.md
