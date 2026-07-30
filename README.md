@@ -68,48 +68,28 @@ notebooklm-nutricao-esportiva/
 ├── LICENSE
 ├── .gitignore
 ├── imagens/
+│   ├── home-notebooklm.png
+│   ├── fontes.png
+│   └── mapa-mental.png
 ├── prompts/
+│   ├── 01-resumo-das-fontes.md
+│   ├── 02-suplementacao.md
+│   ├── 03-pre-durante-pos-treino.md
+│   └── 04-recuperacao-muscular.md
 ├── respostas/
+│   ├── 01-resposta.md
+│   ├── 02-resposta.md
+│   ├── 03-resposta.md
+│   └── 04-resposta.md
 ├── aprendizados/
+│   ├── 01-o-que-aprendi.md
+│   ├── 02-o-que-aprendi.md
+│   ├── 03-o-que-aprendi.md
+│   └── 04-o-que-aprendi.md
 └── referencias/
+    └── fontes-utilizadas.md
 ```
 
-### notebooklm-nutricao-esportiva
-
-├── README.md
-├── LICENSE
-├── .gitignore
-
-
-├──  imagens/
-├── home-notebooklm.png
-├── fontes.png
-├── mapa-mental.png
-
-
-├──  prompts/
-├── 01-resumo-das-fontes.md
-├── 02-suplementacao.md
-├── 03-pre-durante-pos-treino.md
-|└── 04-recuperacao-muscular.md
-
-
-├──  respostas/
-├── 01-resposta.md
-├── 02-resposta.md
-├── 03-resposta.md
-|── 04-resposta.md
-
-
-├──  aprendizados/
-├── 01-o-que-aprendi.md
-├── 02-o-que-aprendi.md
-├── 03-o-que-aprendi.md
-|── 04-o-que-aprendi.md
-
-
-└──  referencias/
-    └── fontes-utilizadas.md
 
 
 ## 🛠️ Tecnologias Utilizadas
@@ -119,8 +99,30 @@ notebooklm-nutricao-esportiva/
 - Git
 - GitHub
 
-  ## 🚀 Como utilizar
 
-  ## 📄 Licença
+## 🚀 Como utilizar
 
-  ## 📸 Demonstração
+1. Acesse o NotebookLM.
+2. Importe as fontes científicas disponíveis na pasta `fontes`.
+3. Utilize os prompts presentes na pasta `prompts`.
+4. Consulte as respostas geradas e compare com os aprendizados registrados.
+
+
+## 📄 Licença
+
+Este projeto foi desenvolvido para fins educacionais como parte do desafio da DIO.
+  
+
+## 📸 Demonstração
+
+### Página inicial
+
+![Home](imagens/home-notebooklm.png)
+
+### Fontes utilizadas
+
+![Fontes](imagens/fontes.png)
+
+### Mapa mental
+
+![Mapa Mental](imagens/mapa-mental.png)
