@@ -60,6 +60,20 @@ Essas fontes foram escolhidas por apresentarem alto nível de evidência cientí
 
 
 
+## 📂 Estrutura do Projeto
+
+```text
+notebooklm-nutricao-esportiva/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── imagens/
+├── prompts/
+├── respostas/
+├── aprendizados/
+└── referencias/
+```
+
 ### notebooklm-nutricao-esportiva
 
 ├── README.md
@@ -96,3 +110,17 @@ Essas fontes foram escolhidas por apresentarem alto nível de evidência cientí
 
 └──  referencias/
     └── fontes-utilizadas.md
+
+
+## 🛠️ Tecnologias Utilizadas
+
+- NotebookLM
+- Markdown
+- Git
+- GitHub
+
+  ## 🚀 Como utilizar
+
+  ## 📄 Licença
+
+  ## 📸 Demonstração
