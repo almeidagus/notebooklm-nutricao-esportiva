@@ -41,11 +41,17 @@ Também aprendi que pequenas mudanças na forma de fazer uma pergunta podem melh
 
 Para garantir a confiabilidade das respostas geradas pelo NotebookLM, foram selecionadas fontes científicas reconhecidas internacionalmente na área de Nutrição Esportiva.
 
-As principais referências utilizadas foram:
+## Fontes utilizadas
 
+### Diretrizes Científicas
 - International Society of Sports Nutrition (ISSN)
 - American College of Sports Medicine (ACSM)
-- International Olympic Committee (IOC)
-- Artigos científicos indexados na PubMed
+- Comitê Olímpico do Brasil (COB)
+
+### Conteúdo Complementar
+- Lincoln Almeida
+- Paulo Muzy
+- Comin Nutrição
+- Escola da Nutrição Esportiva
 
 Essas fontes foram escolhidas por apresentarem alto nível de evidência científica e serem amplamente utilizadas por profissionais e pesquisadores da área da saúde e do esporte.
