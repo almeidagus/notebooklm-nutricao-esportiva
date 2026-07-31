@@ -121,6 +121,7 @@ Este projeto foi desenvolvido para fins educacionais como parte do desafio da DI
 
 ![Fontes](imagens/Fontes.png)
 
-### Mapa mental
+### Mapa esportivo
 
-![Mapa esportivo](imagens/Mapa esportivo.png)
+![Mapa esportivo](imagens/Mapaesportivo.png)
+
