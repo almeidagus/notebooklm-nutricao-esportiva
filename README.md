@@ -115,12 +115,12 @@ Este projeto foi desenvolvido para fins educacionais como parte do desafio da DI
 
 ### Página inicial
 
-Open-NotebookLM.png
+![Página inicial](imagens/Open-NotebookLM.png)
 
 ### Fontes utilizadas
 
-Fontes.png
+![Fontes](imagens/Fontes.png)
 
 ### Mapa mental
 
-Mapa esportivo.png
+![Mapa mental](imagens/Mapa esportivo.png)
