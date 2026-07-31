@@ -63,10 +63,7 @@ Essas fontes foram escolhidas por apresentarem alto nível de evidência cientí
 ## 📂 Estrutura do Projeto
 
 ```text
-notebooklm-nutricao-esportiva/
 ├── README.md
-├── LICENSE
-├── .gitignore
 ├── imagens/
 │   ├── home-notebooklm.png
 │   ├── fontes.png
@@ -118,12 +115,12 @@ Este projeto foi desenvolvido para fins educacionais como parte do desafio da DI
 
 ### Página inicial
 
-![Página inicial](imagens/home-notebooklm.png)
+Open-NotebookLM.png
 
 ### Fontes utilizadas
 
-![Fontes](imagens/fontes.png)
+Fontes.png
 
 ### Mapa mental
 
-![Mapa Mental](imagens/mapa-mental.png)
+Mapa esportivo.png
