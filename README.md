@@ -67,7 +67,7 @@ Essas fontes foram escolhidas por apresentarem alto nível de evidência cientí
 ├── imagens/
 │   ├── home-notebooklm.png
 │   ├── fontes.png
-│   └── mapa-mental.png
+│   └── mapa-esportivo.png
 ├── prompts/
 │   ├── 01-resumo-das-fontes.md
 │   ├── 02-suplementacao.md
