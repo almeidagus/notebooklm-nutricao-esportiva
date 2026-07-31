@@ -123,5 +123,5 @@ Este projeto foi desenvolvido para fins educacionais como parte do desafio da DI
 
 ### Mapa esportivo
 
-![Mapa esportivo](imagens/Mapaesportivo.png)
+![Mapa esportivo](imagens/Mapa%20esportivo.png)
 
