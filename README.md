@@ -123,4 +123,4 @@ Este projeto foi desenvolvido para fins educacionais como parte do desafio da DI
 
 ### Mapa mental
 
-![Mapa mental](imagens/Mapa esportivo.png)
+![Mapa esportivo](imagens/Mapa esportivo.png)
